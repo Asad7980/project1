@@ -1,3 +1,3 @@
 # my first github project 
-# Aurthor ---> Asad
+# Aurthor ---> Asad Jutt
 
